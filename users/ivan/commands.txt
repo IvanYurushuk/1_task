@@ -1,8 +1,9 @@
 git config --global user.name "IvanYurushuk"
 git config --global user.email "yurushuck@yandex.com"
 cd /c/Users/User/git/first_task
-git clone https://github.com/username/1_task.git
+git clone https://github.com/IvanYurushuk/1_task.git
 cd 1_task
+nano readme.md
 mkdir users
 cd users
 mkdir ivan
